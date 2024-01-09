@@ -29,7 +29,7 @@ function Header() {
           justifyContent={{xs: 'center', md: 'flex-start', lg: 'flex-start'}}
         >
           <Logo
-            src='./src/assets/Image/Icon/Logo.png'
+            src='/src/assets/Image/Icon/Logo.png'
             alt='Logo'
           />
         </LogoContainer>
