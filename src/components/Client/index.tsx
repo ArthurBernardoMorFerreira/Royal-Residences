@@ -7,7 +7,6 @@ import {
   FullNameClients,
   ClientsImageURL,
   ClientIsTheMainOne,
-  // ClientsCommentary,
 } from '../../assets/Image/ImagesData/ClientsImages'
 
 type ClientsPropsSize = {
