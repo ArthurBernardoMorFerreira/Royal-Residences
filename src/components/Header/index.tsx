@@ -8,7 +8,7 @@ import {
   Paragraph,
   ButtonContainer,
   ButtonMUI,
-} from './stylization'
+} from '../Header/stylization'
 
 import LayoutStylization from '../../assets/Layout';
 
