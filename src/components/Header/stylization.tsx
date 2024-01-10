@@ -6,14 +6,12 @@ import { styled as styledMUI } from '@mui/material';
 import { Color } from '../../assets/Color';
 import LayoutStylization from '../../assets/Layout';
 
-const backgroundImage = "./src/assets/image/background image/house presentation container.png"
-
 export const Section = styled.header`
   height: 100vh;
   width: 100vw;
 
   background: 
-    url(${backgroundImage})
+    url("./src/assets/Image/BackgroundImage/HousePresentationContainer.png")
     right
   ;
   background-size: cover;
