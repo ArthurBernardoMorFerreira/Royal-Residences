@@ -12,7 +12,7 @@ export const Section = styled.header`
   height: 100vh;
   width: 100vw;
 
-  background: url('${backgroundImage}');
+  background-image: url('${backgroundImage}');
   ;
   background-size: cover;
 `
