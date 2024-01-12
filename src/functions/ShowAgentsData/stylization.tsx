@@ -76,7 +76,7 @@ function BeforeHeartIcon() {
 
   return (
     <BeforeHeartIcon 
-      src="./public/img/Icon/Before Heart.png"
+      src="./img/Icon/Before Heart.png"
       alt="Before Heart"
     />
   )
@@ -91,7 +91,7 @@ function AfterHeartIcon() {
 
   return (
     <AfterHeartIcon 
-      src="./public/img/Icon/After Heart.png"
+      src="./img/Icon/After Heart.png"
       alt="After Heart"
     />
   )
@@ -123,7 +123,7 @@ function EmailIcon() {
 
   return (
     <EmailIcon
-      src="./public/img/Icon/Email Icon.png"
+      src="./img/Icon/Email Icon.png"
       alt='Email Icon'
     />
   )

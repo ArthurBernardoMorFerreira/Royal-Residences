@@ -105,7 +105,7 @@ function Clients() {
               top={{xs: '-2rem', md: '0'}}
             >
               <ArrowLeftIcon
-                src='./public/img/Icon/Arrow-Left Icon.png'
+                src='./img/Icon/Arrow-Left Icon.png'
 
                 onClick={() => {
                   count < 1 ? resetDec() : count
@@ -114,7 +114,7 @@ function Clients() {
                 }}
               />
               <ArrowRightIcon
-                src='./public/img/Icon/Arrow-Right Icon.png'
+                src='./img/Icon/Arrow-Right Icon.png'
                 onClick={() => {
                   count > 3 ? resetInc() : count
                   
