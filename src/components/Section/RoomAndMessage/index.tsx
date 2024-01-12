@@ -16,7 +16,9 @@ import LayoutStylization from '../../../assets/Layout';
 function RoomAndMessage() {
   return (
     <Section>
-      <HousePresentationBg />
+      <HousePresentationBg
+        src='./img/Background Image/House Presentation Container To Buy.png'
+      />
       
       <MessagePosition
         padding={{xs: '0', md: `${LayoutStylization.paddingY} ${LayoutStylization.paddingX}`}}

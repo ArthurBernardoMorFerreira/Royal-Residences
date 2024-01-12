@@ -14,7 +14,6 @@ export const HousePresentationBg = styled.img`
   position: absolute;
   height: 100vh;
   width: 100vw;
-  background: url('./img/Background Image/House Presentation Container To Buy.png');
   filter: brightness(60%);
   z-index: -1;
 `
