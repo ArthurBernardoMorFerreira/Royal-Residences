@@ -12,8 +12,6 @@ import {
 
 import LayoutStylization from '../../assets/Layout';
 
-import { URLLogo } from '../../assets/Image/URLImage/Logo';
-
 function Header() {
   const theme = useTheme();
   const isLargeScreen = useMediaQuery(theme.breakpoints.up('lg'));
@@ -31,7 +29,7 @@ function Header() {
           justifyContent={{xs: 'center', md: 'flex-start', lg: 'flex-start'}}
         >
           <Logo
-            src={URLLogo}
+            src='./img/Icon/Logo.png'
             alt='Logo'
           />
         </LogoContainer>

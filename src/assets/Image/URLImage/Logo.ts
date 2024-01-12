@@ -1,1 +1,0 @@
-export const URLLogo = './src/assets/Image/Icon/Logo.png';
