@@ -12,12 +12,18 @@ import {
 
 import LayoutStylization from '../../assets/Layout';
 
+import { backgroundImage } from '../../assets/Image/URLImage/BgImg';
+
 function Header() {
   const theme = useTheme();
   const isLargeScreen = useMediaQuery(theme.breakpoints.up('lg'));
 
   return (
-    <Section>
+    <Section
+      style={{
+        backgroundImage: `url('${backgroundImage}')`
+      }}
+    >
       <Box
         display={{md: 'flex', lg: 'block'}}
         justifyContent='space-between'
