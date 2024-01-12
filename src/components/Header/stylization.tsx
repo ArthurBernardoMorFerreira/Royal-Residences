@@ -6,11 +6,13 @@ import { styled as styledMUI } from '@mui/material';
 import { Color } from '../../assets/Color';
 import LayoutStylization from '../../assets/Layout';
 
+import { backgroundImage } from '../../assets/Image/URLImage/BgImg';
+
 export const Section = styled.header`
   height: 100vh;
   width: 100vw;
 
-  background: center;
+  background: url('${backgroundImage}') center;
   background-size: cover;
 `
 

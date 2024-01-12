@@ -2,8 +2,8 @@ import { Box, useMediaQuery, useTheme } from '@mui/material'
 import {
   Section,
   LogoContainer,
-  Logo,
   Title,
+  Logo,
   TextContainer,
   Paragraph,
   ButtonContainer,
@@ -12,18 +12,14 @@ import {
 
 import LayoutStylization from '../../assets/Layout';
 
-import { backgroundImage } from '../../assets/Image/URLImage/BgImg';
+import { URLLogo } from '../../assets/Image/URLImage/Logo';
 
 function Header() {
   const theme = useTheme();
   const isLargeScreen = useMediaQuery(theme.breakpoints.up('lg'));
 
   return (
-    <Section
-      style={{
-        backgroundImage: `url('${backgroundImage}')`
-      }}
-    >
+    <Section>
       <Box
         display={{md: 'flex', lg: 'block'}}
         justifyContent='space-between'
@@ -35,7 +31,7 @@ function Header() {
           justifyContent={{xs: 'center', md: 'flex-start', lg: 'flex-start'}}
         >
           <Logo
-            src='/src/assets/Image/Icon/Logo.png'
+            src={URLLogo}
             alt='Logo'
           />
         </LogoContainer>
