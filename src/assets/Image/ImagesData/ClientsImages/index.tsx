@@ -5,9 +5,9 @@ enum FullNameClients {
 }
 
 enum ClientsImageURL {
-  ClientImageURL1 = './public/img/Clients/Pexels Photo by Daniel Xavier.png',
-  ClientImageURL2 = './public/img/Clients/Pexels Photo by Andrea Piacquadio.png',
-  ClientImageURL3 = './public/img/Clients/Pexels Photo by The Lazy Artist Gallery.png',
+  ClientImageURL1 = './img/Clients/Pexels Photo by Daniel Xavier.png',
+  ClientImageURL2 = './img/Clients/Pexels Photo by Andrea Piacquadio.png',
+  ClientImageURL3 = './img/Clients/Pexels Photo by The Lazy Artist Gallery.png',
 }
 
 enum ClientsCommentary {
