@@ -15,7 +15,7 @@ const Section = styled.section`
   position: relative;
   height: 100vh;
   width: 100vw;
-  background: url('./public/img/Background Image/Pexels Photo by Maria Salazar.png');
+  background: url('./img/Background Image/Pexels Photo by Maria Salazar.png');
   overflow-y: hidden;
 `
 
