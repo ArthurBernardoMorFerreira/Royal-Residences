@@ -17,7 +17,7 @@ function RoomAndMessage() {
   return (
     <Section>
       <HousePresentationBg 
-        src='./public/img/Background Image/House Presentation Container To Buy.png'
+        src='./img/Background Image/House Presentation Container To Buy.png'
       />
       
       <MessagePosition

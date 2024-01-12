@@ -16,19 +16,19 @@ export function ImageClient1Selected() {
           <ClientImage
             height={isLargeScreen ? '8rem' : '6.5rem'}
             width={isLargeScreen ? '8rem' : '6.5rem'}
-            src='./public/img/Clients/Pexels Photo by The Lazy Artist Gallery.png'
+            src='./img/Clients/Pexels Photo by The Lazy Artist Gallery.png'
             translateX='2.5rem'
           />
           <ClientImage
             height={isLargeScreen ? '9rem' : '7.5rem'}
             width={isLargeScreen ? '9rem' : '7.5rem'}
-            src='./public/img/Clients/Pexels Photo by Daniel Xavier.png'
+            src='./img/Clients/Pexels Photo by Daniel Xavier.png'
             zIndex='1'
           />
           <ClientImage
             height={isLargeScreen ? '8rem' : '6.5rem'}
             width={isLargeScreen ? '8rem' : '6.5rem'}
-            src='./public/img/Clients/Pexels Photo by Andrea Piacquadio.png'
+            src='./img/Clients/Pexels Photo by Andrea Piacquadio.png'
             translateX='-2.5rem'
           />
         </>
@@ -50,19 +50,19 @@ export function ImageClient2Selected() {
           <ClientImage
             height={isLargeScreen ? '8rem' : '6.5rem'}
             width={isLargeScreen ? '8rem' : '6.5rem'}
-            src='./public/img/Clients/Pexels Photo by Daniel Xavier.png'
+            src='./img/Clients/Pexels Photo by Daniel Xavier.png'
             translateX='2.5rem'
           />
           <ClientImage
             height={isLargeScreen ? '9rem' : '7.5rem'}
             width={isLargeScreen ? '9rem' : '7.5rem'}
-            src='./public/img/Clients/Pexels Photo by Andrea Piacquadio.png'
+            src='./img/Clients/Pexels Photo by Andrea Piacquadio.png'
             zIndex='1'
           />
           <ClientImage
             height={isLargeScreen ? '8rem' : '6.5rem'}
             width={isLargeScreen ? '8rem' : '6.5rem'}
-            src='./public/img/Clients/Pexels Photo by The Lazy Artist Gallery.png'
+            src='./img/Clients/Pexels Photo by The Lazy Artist Gallery.png'
             translateX='-2.5rem'
           />
         </>
@@ -84,19 +84,19 @@ export function ImageClient3Selected() {
           <ClientImage
             height={isLargeScreen ? '8rem' : '6.5rem'}
             width={isLargeScreen ? '8rem' : '6.5rem'}
-            src='./public/img/Clients/Pexels Photo by Andrea Piacquadio.png'
+            src='./img/Clients/Pexels Photo by Andrea Piacquadio.png'
             translateX='2.5rem'
           />
           <ClientImage
             height={isLargeScreen ? '9rem' : '7.5rem'}
             width={isLargeScreen ? '9rem' : '7.5rem'}
-            src='./public/img/Clients/Pexels Photo by The Lazy Artist Gallery.png'
+            src='./img/Clients/Pexels Photo by The Lazy Artist Gallery.png'
             zIndex='1'
           />
           <ClientImage
             height={isLargeScreen ? '8rem' : '6.5rem'}
             width={isLargeScreen ? '8rem' : '6.5rem'}
-            src='./public/img/Clients/Pexels Photo by Daniel Xavier.png'
+            src='./img/Clients/Pexels Photo by Daniel Xavier.png'
             translateX='-2.5rem'
           />
         </>

@@ -64,7 +64,7 @@ function Clients() {
             marginTop={{xs: '20rem', md: '1rem', lg: '2rem'}}
           >
             <Image
-              src="./public/img/Icon/Point Icon.png"
+              src="./img/Icon/Point Icon.png"
               alt="Point Icon"
             />
           </PointIconContainer>

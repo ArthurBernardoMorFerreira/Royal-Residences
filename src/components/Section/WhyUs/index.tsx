@@ -38,13 +38,13 @@ function WhyUs() {
                 <PresentationImage
                   height="320"
                   width="320"
-                  src='./public/img/House Image/House Image 03.png'
+                  src='./img/House Image/House Image 03.png'
                   alt='House Presentation'
                 />
                 <PresentationImage
                   height="320"
                   width="320"
-                  src='./public/img/House Image/House Image 02.png'
+                  src='./img/House Image/House Image 02.png'
                   alt='House Presentation'
                 />
               </Set1OfImages>
@@ -59,7 +59,7 @@ function WhyUs() {
                   <MainPresentationImage
                     height="320"
                     width="500"
-                    src='./public/img/House Image/House Image 01.png'
+                    src='./img/House Image/House Image 01.png'
                     alt='House Presentation'
                   />
                 </Box>
