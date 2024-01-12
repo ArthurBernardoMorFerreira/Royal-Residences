@@ -150,17 +150,17 @@ function Footer() {
             >
               <SocialMediaContainer>
                 <img
-                  src="./src/assets/Image/Social Media/Meta.png"
+                  src="./img/Social Media/Meta.png"
                   alt="Meta"
                   height='30'
                 />
                 <img
-                  src="./src/assets/Image/Social Media/Twitter.png"
+                  src="./img/Social Media/Twitter.png"
                   alt="Twitter"
                   height='30'
                 />
                 <img
-                  src="./src/assets/Image/Social Media/Linkedin.png"
+                  src="./img/Social Media/Linkedin.png"
                   alt="Linkedin"
                   height='30'
                 />
