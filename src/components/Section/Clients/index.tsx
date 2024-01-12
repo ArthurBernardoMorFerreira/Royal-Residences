@@ -64,7 +64,7 @@ function Clients() {
             marginTop={{xs: '20rem', md: '1rem', lg: '2rem'}}
           >
             <Image
-              src="src/assets/Image/Icon/Point Icon.png"
+              src="./public/img/Icon/Point Icon.png"
               alt="Point Icon"
             />
           </PointIconContainer>
@@ -105,7 +105,7 @@ function Clients() {
               top={{xs: '-2rem', md: '0'}}
             >
               <ArrowLeftIcon
-                src='src/assets/Image/Icon/Arrow-Left Icon.png'
+                src='./public/img/Icon/Arrow-Left Icon.png'
 
                 onClick={() => {
                   count < 1 ? resetDec() : count
@@ -114,7 +114,7 @@ function Clients() {
                 }}
               />
               <ArrowRightIcon
-                src='src/assets/Image/Icon/Arrow-Right Icon.png'
+                src='./public/img/Icon/Arrow-Right Icon.png'
                 onClick={() => {
                   count > 3 ? resetInc() : count
                   

@@ -35,7 +35,7 @@ function Footer() {
             margin={{xs:'5rem 0', md: '5rem 0 0 0', lg: '0'}}
           >
             <Logo
-              src='./src/assets/Image/Icon/Logo.png'
+              src='./img/Icon/Logo.png'
               alt='Logo'
             />
             <Box

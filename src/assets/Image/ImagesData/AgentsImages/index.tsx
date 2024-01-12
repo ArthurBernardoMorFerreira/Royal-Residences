@@ -1,6 +1,6 @@
 const AgentsImagesData = [
   {
-    ImageURL: './src/assets/Image/Agents/Agent Image Container-3.png',
+    ImageURL: './public/img/Agents/Agent Image Container-3.png',
     Alt: 'Esther Howard',
     Name: 'Esther Howard',
     JobTitle: 'Interior designer',
@@ -8,7 +8,7 @@ const AgentsImagesData = [
     AgentProfessionalExperience: "Interior designer with over 10 years of experience creating stunning and functional spaces.",
   },
   {
-    ImageURL: './src/assets/Image/Agents/Agent Image Container-2.png',
+    ImageURL: './public/img/Agents/Agent Image Container-2.png',
     Alt: 'Gavin Wilson',
     Name: 'Gavin Wilson',
     JobTitle: 'Residential Architect',
@@ -16,7 +16,7 @@ const AgentsImagesData = [
     AgentProfessionalExperience: "architect with expertise in residential design, focused on creating unique and functional spaces that meet the client's needs and desires.",
   },
   {
-    ImageURL: './src/assets/Image/Agents/Agent Image Container-1.png',
+    ImageURL: './public/img/Agents/Agent Image Container-1.png',
     Alt: 'Arlene McCoy',
     Name: 'Arlene McCoy',
     JobTitle: 'Photographer',
@@ -24,7 +24,7 @@ const AgentsImagesData = [
     AgentProfessionalExperience: "Photographer with extensive experience and expertise in capturing the beauty and emotions of the world around us.",
   },
   {
-    ImageURL: './src/assets/Image/Agents/Agent Image Container.png',
+    ImageURL: './public/img/Agents/Agent Image Container.png',
     Alt: 'Cody Fisher',
     Name: 'Cody Fisher',
     JobTitle: 'Landscape architect',

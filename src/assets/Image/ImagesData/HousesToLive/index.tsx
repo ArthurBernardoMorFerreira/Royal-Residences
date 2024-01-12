@@ -1,36 +1,36 @@
 const HousesToLiveImagesData = [
   {
-    ImageURL: './src/assets/Image/House Image/Image House 01.png',
+    ImageURL: './public/img/House Image/Image House 01.png',
     Alt: 'House Image',
     Local: 'Leipzig',
     Price: '$90M',
   },
   {
-    ImageURL: './src/assets/Image/House Image/Image House 02.png',
+    ImageURL: './public/img/House Image/Image House 02.png',
     Alt: 'House Image',
     Local: 'Enschede',
     Price: '$40M',
   },
   {
-    ImageURL: './src/assets/Image/House Image/Image House 03.png',
+    ImageURL: './public/img/House Image/Image House 03.png',
     Alt: 'House Image',
     Local: 'Bordeaux',
     Price: '$20M',
   },
   {
-    ImageURL: './src/assets/Image/House Image/Image House 04.png',
+    ImageURL: './public/img/House Image/Image House 04.png',
     Alt: 'House Image',
     Local: 'Waterford',
     Price: '$15M',
   },
   {
-    ImageURL: './src/assets/Image/House Image/Image House 05.png',
+    ImageURL: './public/img/House Image/Image House 05.png',
     Alt: 'House Image',
     Local: 'Stralsund',
     Price: '$10M',
   },
   {
-    ImageURL: './src/assets/Image/House Image/Image House 06.png',
+    ImageURL: './public/img/House Image/Image House 06.png',
     Alt: 'House Image',
     Local: 'Windsor',
     Price: '$100M',
