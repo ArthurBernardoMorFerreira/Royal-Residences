@@ -1,6 +1,6 @@
 /* ! Reset Styles */
 
-@import './assets/Font/index.scss';
+@import '../public/font/index.scss';
 
 * {
   margin: 0;
