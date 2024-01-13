@@ -12,7 +12,7 @@ type ImagePropsData = {
   borderImage?: string
 }
 
-type ImageProps = ImageSizeProps & ImagePropsData
+type ImageProps = ImageSizeProps & ImagePropsData;
 
 function PresentationImage({ height, width, src, alt }: ImageProps) {
   const Image = styled.img`

@@ -70,8 +70,8 @@ function WhyUs() {
                   <PresentationImage
                     height='320'
                     width='320'
-                    src='src\assets\Image\House Image\House Image 01.png'
-                    alt='House Presentation'
+                    src='./img/House Image/House Image 01.png'
+                    alt='House Presentation - phone'
                   />
                 </Box>
               </Set2OfImages>
